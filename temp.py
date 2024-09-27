@@ -24,3 +24,4 @@ while webcam.isOpened():
 
 webcam.release()
 cv2.destroyAllWindows()
+abhi or krna hai
